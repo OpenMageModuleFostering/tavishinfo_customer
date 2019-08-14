@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/TavishInfo_Customer",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Customer login Redirect",
+    "authors": [
+    {
+        "name": "MagentoModules",
+        "email": "magentomodules.in@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

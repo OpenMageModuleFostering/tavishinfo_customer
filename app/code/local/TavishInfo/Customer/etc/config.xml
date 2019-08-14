@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <TavishInfo_Customer>
+            <version>0.1.0</version>
+        </TavishInfo_Customer>
+    </modules>
+	<frontend>
+        <routers>
+            <customer>
+                <args>
+                    <modules>
+                        <tavishinfo_customer before="Mage_Customer">TavishInfo_Customer</tavishinfo_customer>
+                    </modules>
+                </args>
+            </customer>
+        </routers>
+    </frontend>    
+</config>

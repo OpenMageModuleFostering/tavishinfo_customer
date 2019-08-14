@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>TavishInfo_Customer</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Customer login Redirect</summary>
+    <description>Customer login Redirect</description>
+    <notes>Customer login Redirect</notes>
+    <authors><author><name>MagentoModules</name><user>MagentoModules</user><email>magentomodules.in@gmail.com</email></author></authors>
+    <date>2014-04-04</date>
+    <time>15:43:10</time>
+    <contents><target name="magelocal"><dir name="TavishInfo"><dir name="Customer"><dir name="Helper"><file name="Data.php" hash="4d4f300df3e0193228b046b68f1e63d6"/></dir><dir name="controllers"><file name="AccountController.php" hash="baaac65b4a4c2fdc2d8310d2c2c72454"/></dir><dir name="etc"><file name="config.xml" hash="88f537eac019c2d08f7d60913297826a"/><file name="system.xml" hash="1fb91f8a213c083a95e15a00f2ce75dd"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="TavishInfo_Customer.xml" hash="d966b241877dadecb6c1fd4c0c953147"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
