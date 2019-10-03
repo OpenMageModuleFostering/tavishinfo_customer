@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/TavishInfo_Customer",
+    "name": "openmage-module-fostering\/tavishinfo_customer",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Customer login Redirect",
     "authors": [
